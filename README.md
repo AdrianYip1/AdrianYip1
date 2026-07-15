@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adrian!</h1>
 <p align="center">
-Computer Engineering student at the University of Toronto, interested in anything software related but currently focusing on systems and graphics programming.
+Computer Engineering student at the University of Toronto, interested in anything software related, focusing on systems and graphics programming.
 </p>
 <p align="center">
 <a href="https://adrian-yip.vercel.app/">Website</a> ·
