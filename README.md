@@ -7,6 +7,15 @@ Computer Engineering student at the University of Toronto, interested in anythin
 <a href="https://www.linkedin.com/in/yipadri/">LinkedIn</a> ·
 <a href="mailto:adrian.yip@mail.utoronto.ca">Email</a>
 </p>
+
+<br>
+
+<div align="center">
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianYip1&layout=compact&langs_count=4&disable_animations=true&theme=apprentice)](https://github.com/AdrianYip1)
+
+</div>
+
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -18,9 +27,6 @@ Computer Engineering student at the University of Toronto, interested in anythin
 </p>
 
 
-<p align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianYip1&layout=compact&langs_count=4&disable_animations=true&theme=apprentice)](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianYip1&layout=compact&langs_count=4&disable_animations=true&theme=apprentice)
-</p>
 
 
 <p align="center">
