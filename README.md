@@ -17,7 +17,7 @@ Computer Engineering student at the University of Toronto, interested in anythin
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianYip1)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianYip1&layout=compact&langs_count=4&disable_animations=true&theme=apprentice)](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianYip1&layout=compact&langs_count=4&disable_animations=true&theme=apprentice)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AdrianYip1&style=for-the-badge&color=blue" alt="Profile views"/>
