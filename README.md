@@ -9,14 +9,6 @@ Computer Engineering student at the University of Toronto, interested in anythin
 </p>
 
 <br>
-
-<div align="center">
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=AdrianYip1&layout=compact&langs_count=4&disable_animations=true&theme=apprentice)](https://github.com/AdrianYip1)
-
-</div>
-
-<br>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
