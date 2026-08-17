@@ -3,8 +3,9 @@
 Computer Engineering student at the University of Toronto, interested in anything software related, focusing on systems and graphics programming.
 </p>
 <p align="center">
-<a href="https://adrian-yip.vercel.app/">Website</a> ·
-<a href="https://www.linkedin.com/in/yipadri/">LinkedIn</a> ·
+<a href="https://www.adrianyip.dev/">Website</a> |
+<a href="https://www.adrianyip.dev/devlog/index.html">DevLog</a> |
+<a href="https://www.linkedin.com/in/yipadri/">LinkedIn</a> |
 <a href="mailto:adrian.yip@mail.utoronto.ca">Email</a>
 </p>
 
