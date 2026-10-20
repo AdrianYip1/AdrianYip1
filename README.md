@@ -20,8 +20,3 @@ Computer Engineering student at the University of Toronto, interested in anythin
 </p>
 
 
-
-
-<p align="center">
-<img src="https://tally.yuki.sh/hits/github@AdrianYip1/profile.svg" alt="Profile views"/>
-</p>
