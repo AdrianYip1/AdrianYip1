@@ -23,5 +23,5 @@ Computer Engineering student at the University of Toronto, interested in anythin
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AdrianYip1&style=for-the-badge&color=blue&v=2" alt="Profile views"/>
+<img src="https://tally.yuki.sh/hits/github@AdrianYip1/profile.svg" alt="Profile views"/>
 </p>
