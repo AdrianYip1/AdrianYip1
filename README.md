@@ -20,3 +20,6 @@ Computer Engineering student at the University of Toronto, interested in anythin
 </p>
 
 
+<p align="center">
+<img src="https://hits.sh/github.com/AdrianYip1.svg?style=for-the-badge&label=Profile%20views&color=007ec6&extraCount=580" alt="Profile views"/>
+</p>
